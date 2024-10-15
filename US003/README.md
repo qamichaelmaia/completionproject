@@ -1,5 +1,3 @@
-# M34 - Projeto final
-
 # US003 - API de Cupons
 
 Este é o repositório para automação da API, desenvolvido para trabalhar com Cypress.

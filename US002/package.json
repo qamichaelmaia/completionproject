@@ -1,6 +1,6 @@
 {
   "name": "Mod34 - Projeto final",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Mod34 - Projeto final",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,11 @@
     "allure:open": "npx allure serve",
     "cy:dashboard": "cypress run --record --key 4584c269-b28d-4a8e-922d-54dac41d0598"
   },
-
-  "author": "André Dienes Friedrich",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qamichaelmaia/completionproject/tree/main/US002"
+  },
+  "author": "Michael Maia",
   "license": "ISC",
   "homepage": "https://github.com/qamichaelmaia",
   "dependencies": {

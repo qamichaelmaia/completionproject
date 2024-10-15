@@ -1,5 +1,3 @@
-# Mod34 - Projeto final
-
 # US001 - Adicionar item ao carrinho
 
 Este é um repositorio para automatização de projeto utilizando a ferramenta Cypress

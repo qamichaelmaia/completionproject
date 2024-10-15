@@ -1,5 +1,3 @@
-# Mod34 - Projeto final
-
 # US002 - Login na plataforma
 
 Este é o repositório para automação de projetos Web, desenvolvido para trabalhar com Cypress.

@@ -10,7 +10,10 @@
     "cy:run-ci": "start-server-and-test start http://localhost:3000/ test",
     "cy:dashboard": "cypress run --record --key 4584c269-b28d-4a8e-922d-54dac41d0598"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qamichaelmaia/completionproject/tree/main/US003"
+  },
   "author": "Michael Maia",
   "license": "ISC",
   "homepage": "https://github.com/qamichaelmaia",
